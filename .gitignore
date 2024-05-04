@@ -1,0 +1,9 @@
+/CMS-Backend/node_modules
+/Clinic-Frontend/node_modules
+
+
+/CMS-Backend/.env
+/CMS-Backend/.env.development.local
+/CMS-Backend/.env.test.local
+/CMS-Backend/.env.production.local
+/CMS-Backend/.env.local
